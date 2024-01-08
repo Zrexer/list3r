@@ -1,5 +1,5 @@
 # List3r Library
-a Library for manage datas in terminal
+Library for manage datas in terminal
 
 # Download
 `pip install list3r`
